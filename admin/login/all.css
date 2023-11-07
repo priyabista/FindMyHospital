@@ -1,0 +1,75 @@
+*{
+    text-decoration: none;
+}
+table{
+    border-spacing: 40px ;
+    border-style: none;
+    
+}
+.heading{
+    position:absolute;
+    padding-left: 500px;
+    padding-top: 80px;
+    display: flex;
+}
+.hosimg{
+      align-items: center;
+      position:absolute;
+      border-style: none;
+}
+div.position{
+    position: relative;
+    box-sizing: content-box;
+    padding-top: 5px;
+    border-style: none;
+}
+#pen{
+    position: absolute;
+    padding-left: 590px;
+    
+}
+#nep{
+    width: 0px;
+    margin-right: 500px;
+    padding-top: 20px;
+}
+h2{color: rgb(177, 114, 236);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 0.5px;
+    font-size: 30px;
+}
+p{position: absolute;
+    padding-left: 475px;
+    padding-top: 15px;
+    }
+    #submit{
+        position: absolute;
+        padding-left: 20px;
+        padding-top: 0px;
+    }
+    #submit input{
+        background-color: rgb(98, 224, 155);
+        border: none;
+        width: 100%;
+        margin: 30px;
+        padding: 10px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size:larger;
+        font-weight: bold;
+    }
+    div.open{
+        position: absolute;
+        margin-left:  200px;
+        margin-right: 200px;
+        width: 800px;
+        height: 400px;
+        background-color: white;
+        box-shadow: 0px 5px 10px black;
+    }
+    .box input {
+        background-color: #f2f4f6;
+        border: none;
+        padding: 15px;
+      width: 100%;
+    }
+    
